@@ -1,0 +1,5 @@
+Data/
+*.ipynb_checkpoints/
+*.png
+*.jpg
+*.pyc
